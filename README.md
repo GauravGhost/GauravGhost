@@ -1,5 +1,5 @@
 ```python
-    class Greeting():
+    class Work():
         def is_alive():
             eat()
             code()
