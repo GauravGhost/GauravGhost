@@ -1,14 +1,15 @@
  <div align="center"></div>
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img align="center" height="300px" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png" alt="cover" />
 </div>
 
 <p align="center"> HI! < Developers /><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></p>
-<h1 style="background: linear-gradient(to right,#EA0E21 3%, #217CEB 100%);
-background-clip: text;
--webkit-background-clip: text;
-color: transparent;" align='center'>I'm Gyanendra kumar</h1>
+<h1 align='center'>I'm Gyanendra kumar</h1>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravghost&label=Profile%20views&color=0e75b6&style=flat" alt="gauravghost" /> </p>
+<p align="center">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Gauravghost.Gauravghost)
+
+</p>
 <div size='20px'> Hi! My name is Gyanendra Kumar. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
