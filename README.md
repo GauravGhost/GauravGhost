@@ -1,9 +1,13 @@
+```python
+    class Greeting():
+        def is_alive():
+            eat()
+            code()
+            sleep()
+            repleat()
+        is_alive()
+```
 <div>
-<p align="center">
-<img height="300px" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png" alt="cover" />
-</p>
-
-
 <p align="center"> HI! < Developers /><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></p>
 <h1 align='center'>I'm Gyanendra kumar</h1>
  </div>
