@@ -13,6 +13,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gauravghost.Gauravghost)
 
 </p>
+
 <div size='20px'> Hi! My name is Gyanendra Kumar. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
