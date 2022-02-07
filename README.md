@@ -1,11 +1,10 @@
 ```python
     class Work():
-        def is_alive():
-            eat()
-            code()
-            sleep()
-            repleat()
-        is_alive()
+        if brain != empty:
+            keepCoding()
+        else:
+            orderCoffee()
+        
 ```
 <div>
 <p align="center"> HI! < Developers /><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></p>
