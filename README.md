@@ -1,5 +1,7 @@
  <div align="center"></div>
-<img align="center" height="300px" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png" alt="cover" />
+ <p align="center">
+<img height="300px" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png" alt="cover" />
+ </p>
 </div>
 
 <p align="center"> HI! < Developers /><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></p>
