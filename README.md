@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravghost&label=Visitors&color=0e75b6&style=flat" alt="gauravghost" /> </p>
 
-<div size='20px'> Hi! My name is Gyanendra Kumar. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Gyanendra Kumar. I'm a Full Stack Developer:smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = "75"></h2>
@@ -22,8 +22,8 @@
 
 
 - 🔭 I’m currently working on MERN project
-
-- 🌱 I’m currently learning Backend
+  
+- 🆓 My Hobbies - Reading books, Playing games
 
 - 👯 I’m looking to collaborate on Projects 
 
@@ -32,11 +32,16 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="75"></h2>
 
-- <a href= 'https://github.com/Gauravghost?tab=repositories&q=&type=&language=python&sort=' ><img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> **Python**</a>
-- <a style="margin-right: 20px" href= 'https://github.com/Gauravghost?tab=repositories&q=&type=&language=reactjs&sort=' > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> **React**</a>
 - <a style="margin-right: 20px" href= 'https://github.com/Gauravghost?tab=repositories&q=&type=&language=javascript&sort=' > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> **Javascript**</a>
 - <a style="margin-right: 20px" href= 'https://github.com/Gauravghost?tab=repositories&q=&type=&language=c&sort=' > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> **C** </a>
 - <a style="margin-right: 20px" href= 'https://github.com/Gauravghost?tab=repositories&q=&type=&language=cpp&sort=' > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> **C++**</a>
+- <a style="margin-right: 20px" href= 'https://github.com/Gauravghost?tab=repositories&q=&type=&language=reactjs&sort=' > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> **React**</a>
+- <a style="margin-right: 20px" href= 'https://github.com/Gauravghost?tab=repositories&q=&type=&language=javascript&sort=' > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> **Node**</a>
+- <a style="margin-right: 20px"> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> **MongoDB**</a>
+- <a style="margin-right: 20px" > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> **MySql**</a>
+- <a style="margin-right: 20px"> <img width ='20px' src         ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> **Docker**</a>
+- <a href= 'https://github.com/Gauravghost?tab=repositories&q=&type=&language=python&sort=' ><img width ='20px' src
+='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> **Python**</a>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32'> </h2>
