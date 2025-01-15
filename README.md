@@ -11,26 +11,18 @@
 <h1 align='center'>I'm Gyanendra kumar</h1>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravghost&label=Visitors&color=0e75b6&style=flat" alt="gauravghost" /> </p>
-
-<div size='20px'>I'm a Full Stack Developer:smile: 
-</div>
-<div size='20px'>I have completed my B.Tech from Computer Science
-</div>
-
-
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = "75"></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on GO backend Project
+- 🔭 I’m currently working on Typescript backend Project
   
-- 🆓 My Hobbies - Reading books, Playing games
+- 🆓 My Hobbies - Reading books, Playing mobile games
+  
+- 🗣️ Topic - Psychology, Philosophy, Programming, Cyber Security
 
 - 👯 I’m looking to collaborate on Backend Projects 
-
-- 💬 Talk to me about C++, JavaScript, NodeJs, ReactJs, Java, Go
  
 [//]:# (Language and Tools Section)
 <h2> Language and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="75"></h2>
